@@ -1,0 +1,4 @@
+#!/bin/bash
+git add .
+git commit -m 'edit task 7 and task 11'
+git push
