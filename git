@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m 'add task 17'
+git commit -m 'upload task 1-10 '
 git push
