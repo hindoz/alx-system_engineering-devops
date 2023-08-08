@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m 'edit task 15 '
+git commit -m 'edit task 17 '
 git push
